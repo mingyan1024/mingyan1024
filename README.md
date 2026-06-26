@@ -1,3 +1,4 @@
+![headbanner](./head-banner.png)
 # Hi 👋, 我是 Gao
 
 ### IT专业人员，拥抱ai，热爱分享
