@@ -2,6 +2,7 @@
 
 ### IT专业人员，拥抱ai，热爱分享
 - 📝 这是我的技术文档 **[https://www.gaomian.org](https://www.gaomian.org)**
+- ⚡ 定期更新视频与文档，欢迎浏览
 
 <h3 align="left">欢迎浏览我的频道:</h3>
 <p align="left">
