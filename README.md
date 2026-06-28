@@ -14,8 +14,8 @@
 ### 目前主要维护的项目
 
 - 个人博客网站，Hugo 搭建：https://github.com/mingyan1024/blog
-- Hugo PaperMod 主题，自用版本：https://github.com/mingyan1024/hugo-PaperMod
-- remotion 汇总常用视频效果：https://github.com/mingyan1024/remotion-show
+- Hugo PaperMod 主题，从官方fork自用版本：https://github.com/mingyan1024/hugo-PaperMod
+- remotion 工具自己编写的代码，常用视频效果：https://github.com/mingyan1024/remotion-show
 - 在线提词器：https://github.com/mingyan1024/lines
 
 
