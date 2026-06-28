@@ -11,6 +11,12 @@
 <a href="https://youtube.com/@ITdev_gao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ITdev_gao" height="30" width="40" /></a>
 </p>
 
+### 目前主要维护的项目
+
+- 个人博客网站，Hugo 搭建：https://github.com/mingyan1024/blog
+- Hugo PaperMod 主题，自用版本：https://github.com/mingyan1024/hugo-PaperMod
+- remotion 汇总常用视频效果：https://github.com/mingyan1024/remotion-show
+- 在线提词器：https://github.com/mingyan1024/lines
 
 
 <!--
